@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-theme-rhinelab",
+  "version": "0.0.0",
+  "description": "明日方舟莱茵生命阵营的 VuePress 主题，开发中……",
+  "main": "index.js",
+  "repository": "https://github.com/Yue-plus/vuepress-theme-rhinelab",
+  "author": "Yue-plus <Yue_plus@foxmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
