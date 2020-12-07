@@ -1,0 +1,7 @@
+title: vuepress-theme-rhinelab
+
+locales:
+  '/':
+    lang: 'zh-CN'
+
+base: /
