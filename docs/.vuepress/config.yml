@@ -5,3 +5,23 @@ locales:
     lang: 'zh-CN'
 
 base: /
+
+# theme: 'rhinelab'
+
+themeConfig:
+  nav:
+    -
+      text: 指南
+      link: /guide/
+    -
+      text: 配置
+      link: /config/
+    -
+      text: 插件
+      link: /plugin/
+    -
+      text: 参与开发
+      link: /join/
+    -
+      text: GitHub
+      link: https://github.com/Yue-plus/vuepress-theme-rhinelab
