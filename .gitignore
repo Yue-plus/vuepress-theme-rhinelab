@@ -1,4 +1,6 @@
 node_modules
+.temp
+.cache
 *.log
 .vscode/
 .idea/

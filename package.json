@@ -6,11 +6,11 @@
   "repository": "https://github.com/Yue-plus/vuepress-theme-rhinelab",
   "author": "Yue-plus <Yue_plus@foxmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.7.1"
-  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.22"
   }
 }

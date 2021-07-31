@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "description": "明日方舟莱茵生命阵营的 VuePress 主题，开发中……",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Yue-plus/vuepress-theme-rhinelab.git"
