@@ -1,16 +1,19 @@
 {
-  "name": "vuepress-theme-rhinelab",
+  "name": "vuepress-theme-rhinelab-demo",
   "version": "0.0.0",
-  "description": "明日方舟莱茵生命阵营的 VuePress 主题，开发中……",
-  "main": "index.js",
+  "description": "明日方舟莱茵生命阵营的 VuePress 主题 Demo，开发中……",
   "repository": "https://github.com/Yue-plus/vuepress-theme-rhinelab",
   "author": "Yue-plus <Yue_plus@foxmail.com>",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
+  "packageManager": "pnpm@7.5.2",
   "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.49",
+    "vue": "^3.2.37",
     "vuepress": "^2.0.0-beta.49"
   }
 }
